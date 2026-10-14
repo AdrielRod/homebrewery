@@ -25,13 +25,6 @@ ___
 \page
 {{pageNumber,auto}}
 
-<!-- imagem: página de arte (página 3 do PDF original, sem texto) -->
-
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p003_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
-\page
-{{pageNumber,auto}}
-
 {{toc,wide
 # Sumário
 }}
@@ -65,6 +58,12 @@ ___
 - ### [{{ Habilidades }}{{ 36 }}](#p36)
 - ###### [{{ Habilidades Gerais }}{{ 36 }}](#p36)
 - ###### [{{ Habilidades Exclusivas }}{{ 46 }}](#p46)
+}}
+
+\page
+{{pageNumber,auto}}
+
+{{toc,
 - ### [{{ Combate }}{{ 66 }}](#p66)
 - ###### [{{ Críticos em Combate }}{{ 69 }}](#p69)
 - ###### [{{ DMT }}{{ 70 }}](#p70)
