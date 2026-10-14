@@ -94,6 +94,7 @@ Coordenada é uma adaptação para RPG de mesa da obra conhecida no Oriente como
 
 Conforme classificação atribuída pelo **Ministério da Justiça**, o Coordenada recebeu classificação indicativa de **16 anos**, devido à presença de violência em seu conteúdo. Portanto, caso você tenha menos de 16 anos, é recomendado que jogue apenas com a autorização de um responsável.
 
+
 ## Créditos
 
 **Idealizador:** Passoka
@@ -125,15 +126,9 @@ Conforme classificação atribuída pelo **Ministério da Justiça**, o Coordena
 **Player Testers:** MatJac, Izuku, Kaiser, SupinoReto, Apolo, Dezzee, Baydu, Kakapo, BigTasty, Aeter, Aly e Luci
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p005_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p005_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p005_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p005_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p005_6.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
 \page
 {{pageNumber,auto}}
 
@@ -150,7 +145,7 @@ Outro aspecto importante a se destacar sobre a obra é a sua classificação ind
 <!-- imagem: Eren Yeager -->
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
 
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
 
