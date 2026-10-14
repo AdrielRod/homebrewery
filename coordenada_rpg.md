@@ -145,11 +145,11 @@ Outro aspecto importante a se destacar sobre a obra é a sua classificação ind
 <!-- imagem: Eren Yeager -->
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_2.webp){position:absolute,left:32.8%,top:65.0%,width:71.3%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_3.webp){position:absolute,left:2.6%,top:-8.7%,width:94.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_5.webp){position:absolute,left:2.6%,top:32.2%,width:94.8%}
 \page
 {{pageNumber,auto}}
 
@@ -164,11 +164,11 @@ As três grandes muralhas citadas anteriormente têm o papel de proteger a human
 <!-- imagem: mapa das muralhas Maria, Rose e Sina -->
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p007_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p007_2.webp){position:absolute,left:57.2%,top:2.3%,width:62.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p007_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p007_3.webp){position:absolute,left:2.6%,top:-6.9%,width:74.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p007_4.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p007_4.webp){position:absolute,left:21.8%,top:67.4%,width:56.8%}
 \page
 {{pageNumber,auto}}
 
@@ -185,11 +185,11 @@ Diferentemente das outras divisões, a Polícia Militar apresenta um lado corrom
 <!-- imagem: brasão da Polícia Militar -->
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_2.webp){position:absolute,left:2.6%,top:-5.3%,width:72.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_3.webp){position:absolute,left:2.6%,top:18.4%,width:68.7%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_4.webp){position:absolute,left:57.7%,top:36.6%,width:42.3%}
 \page
 {{pageNumber,auto}}
 
@@ -206,13 +206,13 @@ Essa com certeza é a divisão mais famosa do mundo de Attack on Titan. A Tropa 
 <!-- imagem: brasão da Tropa de Exploração -->
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_2.webp){position:absolute,left:2.6%,top:-5.1%,width:68.7%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_3.webp){position:absolute,left:55.4%,top:12.1%,width:46.7%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_4.webp){position:absolute,left:0.8%,top:43.0%,width:69.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_5.webp){position:absolute,left:58.3%,top:61.1%,width:40.7%}
 \page
 {{pageNumber,auto}}
 
@@ -233,13 +233,13 @@ Na maioria das vezes, as rolagens deste sistema são feitas com o dado de 20 lad
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_3.webp){position:absolute,left:0.1%,top:55.2%,width:71.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_4.webp){position:absolute,left:54.3%,top:60.6%,width:46.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_5.webp){position:absolute,left:0.1%,top:-9.3%,width:99.7%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_6.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_6.webp){position:absolute,left:2.4%,top:29.2%,width:95.1%}
 \page
 {{pageNumber,auto}}
 
@@ -256,13 +256,13 @@ Durante a jogatina, você pode se deparar com vantagens e desvantagens. Elas fun
 O primeiro passo para jogar um RPG é criar o seu personagem. Para isso, você precisará mesclar sua criatividade e detalhes narrativos com base na aventura em que ele será inserido para criar a sua história, além de estar atento às estatísticas de jogo que envolvem a criação da ficha do personagem, as quais serão explicadas nesta etapa do sistema.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_2.webp){position:absolute,left:0.7%,top:-4.2%,width:74.4%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_3.webp){position:absolute,left:0.7%,top:26.1%,width:72.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_5.webp){position:absolute,left:65.8%,top:74.8%,width:35.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_6.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_6.webp){position:absolute,left:4.6%,top:56.7%,width:90.7%}
 \page
 {{pageNumber,auto}}
 
@@ -295,15 +295,15 @@ O atributo de Intelecto define a inteligência do personagem, proporcionando mai
 **Bônus de ficha fornecidos por cada ponto em Intelecto:** +1 Ponto de perícia / +1 Em Sanidade (SAN)
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_2.webp){position:absolute,left:-16.0%,top:19.0%,width:55.0%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_3.webp){position:absolute,left:-18.2%,top:35.5%,width:55.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_4.webp){position:absolute,left:-21.6%,top:51.9%,width:59.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_5.webp){position:absolute,left:-17.9%,top:73.5%,width:55.0%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_6.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_6.webp){position:absolute,left:-0.4%,top:-5.5%,width:72.1%}
 \page
 {{pageNumber,auto}}
 
@@ -343,11 +343,11 @@ As perícias representam áreas nas quais seu personagem pode se aperfeiçoar. C
 Abaixo estão listadas as perícias do sistema, organizadas em ordem alfabética.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p013_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p013_2.webp){position:absolute,left:-18.2%,top:-2.7%,width:55.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p013_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p013_3.webp){position:absolute,left:-0.1%,top:9.8%,width:70.3%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p013_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p013_4.webp){position:absolute,left:-0.1%,top:55.4%,width:68.8%}
 \page
 {{pageNumber,auto}}
 
@@ -384,7 +384,7 @@ A perícia de Intimidação, seja através do seu físico ou da maneira como se 
 A perícia de Luta está diretamente relacionada aos combates, abrangendo qualquer tipo de ataque corpo a corpo, seja com as próprias lâminas do DMT, ou com os próprios punhos, por exemplo.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p014_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p014_4.webp){position:absolute,left:59.8%,top:23.4%,width:56.8%}
 \page
 {{pageNumber,auto}}
 
@@ -413,7 +413,7 @@ A perícia de Tática é uma ferramenta que permite ao narrador auxiliar seus jo
 A perícia de Vontade abrange o estado mental do personagem e é geralmente utilizada em situações em que ele precisa manter a estabilidade mental ou motivar-se para dar o seu melhor em uma luta.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p015_8.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p015_8.webp){position:absolute,left:6.2%,top:60.6%,width:94.3%}
 \page
 {{pageNumber,auto}}
 
@@ -444,11 +444,11 @@ Um teste com uma perícia pode ser semelhante ao teste de Atributo citado anteri
 Os Pontos de Vida (ou '**PDV**') representam o estado físico do seu personagem, relacionado a machucados e feridas. Quando o personagem está em boas condições, seus PDVs estarão no valor máximo. No entanto, à medida que ele sofre danos de ataques ou efeitos semelhantes, seu corpo apresentará marcas dessas agressões e seus PDVs começarão a diminuir até chegarem a 0. Quando isso acontecer, o personagem será afetado pela condição 'Morrendo', descrita na seção de Condições do livro.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p016_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p016_3.webp){position:absolute,left:59.9%,top:69.9%,width:42.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p016_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p016_4.webp){position:absolute,left:0.4%,top:-5.1%,width:69.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p016_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p016_5.webp){position:absolute,left:0.4%,top:52.2%,width:71.7%}
 \page
 {{pageNumber,auto}}
 
@@ -467,9 +467,9 @@ Os danos de sanidade são definidos pela interpretação do narrador, que deve a
 A recuperação da sanidade também se baseia na interpretação do mestre, ele pode decidir quando um personagem recupera pontos de sanidade, geralmente após momentos positivos, alívios emocionais ou reflexões significativas que promovam alguma estabilidade mental. Quando isso acontecer, rola-se **1d4** para determinar quantos pontos de sanidade são restaurados.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p017_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p017_2.webp){position:absolute,left:30.3%,top:35.3%,width:77.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p017_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p017_5.webp){position:absolute,left:0.4%,top:-5.1%,width:71.7%}
 \page
 {{pageNumber,auto}}
 
@@ -495,11 +495,11 @@ Sendo herdeiro do sangue real, a vida do seu personagem sempre foi escondida da 
 | 8 | 8 | 4 |
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_3.webp){position:absolute,left:57.5%,top:66.9%,width:47.4%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_4.webp){position:absolute,left:0.4%,top:-5.6%,width:77.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_5.webp){position:absolute,left:6.3%,top:23.0%,width:87.4%}
 \page
 {{pageNumber,auto}}
 
@@ -545,7 +545,7 @@ Assim como os moradores da aldeia Ragako, uma aldeia distante dos grandes distri
 | 10 | 6 | 4 |
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p019_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p019_2.webp){position:absolute,left:64.5%,top:68.0%,width:47.4%}
 \page
 {{pageNumber,auto}}
 
@@ -591,7 +591,7 @@ A vida do seu personagem se baseou em seguir uma carreira militar, sendo treinad
 | 12 | 6 | 6 |
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p020_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p020_2.webp){position:absolute,left:57.9%,top:67.1%,width:46.9%}
 \page
 {{pageNumber,auto}}
 
@@ -622,7 +622,7 @@ Seu personagem nunca aceitou as regras convencionais e, assim como Eren Yeager, 
 | 10 | 8 | 6 |
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p021_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p021_2.webp){position:absolute,left:40.8%,top:52.8%,width:69.4%}
 \page
 {{pageNumber,auto}}
 
@@ -646,15 +646,15 @@ As classes existem para fortalecer os pontos fortes do seu personagem, funcionan
 Ao atingir o **nível 1** com o seu personagem, você poderá escolher uma classe. Por isso, é importante analisar atentamente as características de cada uma, que estarão mais à frente no livro, para tomar uma decisão alinhada ao seu estilo de jogo e às individualidades do seu personagem.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_2.webp){position:absolute,left:56.2%,top:10.2%,width:41.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_3.webp){position:absolute,left:31.3%,top:30.3%,width:17.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_4.webp){position:absolute,left:55.7%,top:46.9%,width:42.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_6.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_6.webp){position:absolute,left:52.5%,top:38.2%,width:48.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_7.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p022_7.webp){position:absolute,left:8.7%,top:57.3%,width:82.8%}
 \page
 {{pageNumber,auto}}
 
@@ -672,15 +672,15 @@ Estar na classe Linha de Frente significa que o seu personagem é um verdadeiro 
 <!-- imagem: soldado da Linha de Frente -->
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_2.webp){position:absolute,left:42.9%,top:22.5%,width:62.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_4.webp){position:absolute,left:-25.7%,top:54.3%,width:90.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_5.webp){position:absolute,left:-9.3%,top:65.6%,width:36.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_6.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_6.webp){position:absolute,left:-7.6%,top:71.1%,width:34.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_7.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p023_7.webp){position:absolute,left:1.3%,top:-8.6%,width:93.9%}
 \page
 {{pageNumber,auto}}
 
@@ -698,15 +698,15 @@ O Suporte de Campo é fundamental no campo de batalha, desempenhando um papel de
 <!-- imagem: soldado do Suporte de Campo -->
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_3.webp){position:absolute,left:32.4%,top:33.3%,width:94.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_4.webp){position:absolute,left:-28.4%,top:57.9%,width:83.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_5.webp){position:absolute,left:-8.0%,top:68.1%,width:35.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_6.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_6.webp){position:absolute,left:-8.6%,top:72.9%,width:36.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_7.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p024_7.webp){position:absolute,left:3.2%,top:-6.6%,width:93.9%}
 \page
 {{pageNumber,auto}}
 
@@ -724,15 +724,15 @@ Ser um Especialista de Batalha exige uma mente astuta, pois sua função é elab
 <!-- imagem: Especialista de Batalha -->
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_2.webp){position:absolute,left:41.7%,top:14.0%,width:74.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_4.webp){position:absolute,left:-20.4%,top:67.0%,width:73.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_5.webp){position:absolute,left:-5.9%,top:76.8%,width:30.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_6.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_6.webp){position:absolute,left:-7.7%,top:81.1%,width:32.7%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_7.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p025_7.webp){position:absolute,left:3.1%,top:-6.8%,width:92.5%}
 \page
 {{pageNumber,auto}}
 
@@ -753,13 +753,13 @@ Atirador é uma subclasse da classe Linha de Frente. Ser um Atirador significa q
 **Passiva da Subclasse:** Ao escolher a Subclasse Atirador, o personagem recebe **+1 ponto** na perícia de Pontaria. *(Esse ponto extra ignora o limite máximo de pontos permitido para perícias).*
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p026_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p026_2.webp){position:absolute,left:-29.0%,top:21.7%,width:79.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p026_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p026_3.webp){position:absolute,left:36.8%,top:5.2%,width:108.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p026_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p026_5.webp){position:absolute,left:-29.0%,top:55.4%,width:79.3%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p026_7.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p026_7.webp){position:absolute,left:6.7%,top:-8.0%,width:86.6%}
 \page
 {{pageNumber,auto}}
 
@@ -776,11 +776,11 @@ Inventor é uma subclasse da classe Suporte de Campo. Ao escolhê-la, o personag
 **Passiva da Subclasse:** Ao escolher a Subclasse Inventor, o personagem recebe **+1 ponto** na perícia de Mecânica. *(Esse ponto extra ignora o limite máximo de pontos permitido para perícias).*
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p027_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p027_2.webp){position:absolute,left:-33.9%,top:-5.3%,width:82.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p027_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p027_4.webp){position:absolute,left:-33.8%,top:25.6%,width:82.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p027_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p027_5.webp){position:absolute,left:34.9%,top:31.7%,width:98.6%}
 \page
 {{pageNumber,auto}}
 
@@ -797,11 +797,11 @@ Estrategista é uma subclasse da classe Especialista de Batalha. Ao escolhê-la,
 **Passiva da Subclasse:** Ao escolher a Subclasse Estrategista, o personagem recebe **+1 ponto** nas perícias de Exploração e Tática. *(Esses pontos extras ignoram o limite máximo de pontos permitido para perícias).*
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p028_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p028_2.webp){position:absolute,left:-34.7%,top:-3.7%,width:84.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p028_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p028_4.webp){position:absolute,left:25.9%,top:25.1%,width:105.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p028_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p028_5.webp){position:absolute,left:-32.5%,top:27.9%,width:82.8%}
 \page
 {{pageNumber,auto}}
 
@@ -829,7 +829,7 @@ Por meio de uma troca de pontos, os Talentos e Defeitos do personagem representa
 | Bom Apetite | -2 | O personagem é apaixonado por comida. Sempre que fizer uma boa refeição durante um Descanso Longo, recebe **+2** em todos os Testes de Defesa do personagem até o fim do dia. |
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p029_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p029_3.webp){position:absolute,left:2.6%,top:-9.2%,width:93.9%}
 \page
 {{pageNumber,auto}}
 
@@ -909,11 +909,11 @@ Para definir os atributos iniciais de um personagem, você deve distribuir os va
 Para calcular o deslocamento do personagem, basta somar **5 + a Agilidade** do personagem.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p032_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p032_4.webp){position:absolute,left:39.1%,top:54.7%,width:64.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p032_6.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p032_6.webp){position:absolute,left:5.1%,top:-7.9%,width:90.0%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p032_7.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p032_7.webp){position:absolute,left:0.4%,top:19.1%,width:68.2%}
 \page
 {{pageNumber,auto}}
 
@@ -950,9 +950,9 @@ Os pontos de XP são recebidos de duas formas. A primeira se baseia na livre int
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p033_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p033_3.webp){position:absolute,left:0.4%,top:-4.9%,width:67.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p033_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p033_4.webp){position:absolute,left:0.4%,top:19.7%,width:67.1%}
 \page
 {{pageNumber,auto}}
 
@@ -990,9 +990,9 @@ Os pontos de XP são recebidos de duas formas. A primeira se baseia na livre int
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p034_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p034_2.webp){position:absolute,left:-0.2%,top:-3.5%,width:70.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p034_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p034_3.webp){position:absolute,left:48.1%,top:61.6%,width:64.1%}
 \page
 {{pageNumber,auto}}
 
@@ -1058,9 +1058,9 @@ Durante a aventura, é comum que os personagens falhem em rolagens decisivas par
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p036_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p036_2.webp){position:absolute,left:-0.3%,top:-4.7%,width:64.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p036_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p036_3.webp){position:absolute,left:-0.9%,top:37.2%,width:65.3%}
 \page
 {{pageNumber,auto}}
 
@@ -1416,9 +1416,9 @@ Enquanto alguns confiam na força bruta, outros dominam a arte da velocidade let
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p046_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p046_2.webp){position:absolute,left:43.8%,top:30.1%,width:63.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p046_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p046_3.webp){position:absolute,left:-0.4%,top:-7.2%,width:79.3%}
 \page
 {{pageNumber,auto}}
 
@@ -1698,7 +1698,7 @@ A função de um médico em combate é, acima de tudo, manter seus aliados em co
 **Custo:** 5 PDE.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p054_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p054_2.webp){position:absolute,left:41.6%,top:53.5%,width:65.9%}
 \page
 {{pageNumber,auto}}
 
@@ -2000,7 +2000,7 @@ Para formular suas táticas, um estrategista precisa saber contra quem está lut
 **Custo:** 6 PDE e uma Ação Bônus.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p063_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p063_2.webp){position:absolute,left:37.9%,top:45.8%,width:62.2%}
 \page
 {{pageNumber,auto}}
 
@@ -2090,11 +2090,11 @@ Todo personagem começa com uma Ação Padrão, que é utilizada para realizar q
 Todo personagem começa com uma Ação de Movimento, cuja função é permitir a movimentação do personagem pelo campo de batalha. A distância que o personagem pode percorrer durante essa ação é determinada pelo seu valor de deslocamento, que define a quantidade de metros que ele consegue se mover.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p066_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p066_2.webp){position:absolute,left:0.6%,top:20.9%,width:64.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p066_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p066_3.webp){position:absolute,left:0.2%,top:41.7%,width:62.3%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p066_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p066_4.webp){position:absolute,left:4.1%,top:-9.2%,width:92.6%}
 \page
 {{pageNumber,auto}}
 
@@ -2111,7 +2111,7 @@ Durante os combates, os personagens realizam diferentes tipos de ataques, para o
 Durante um combate, o seu personagem será atacado diversas vezes, para reagir a esses ataques, será necessário realizar um Teste de Defesa na maioria das situações. Esses testes são divididos em duas categorias: **Esquiva** e **Bloqueio**. Dependendo da situação em que você se encontrar, poderá escolher qual delas utilizar. Os Testes de Defesa **não exigem** o gasto de Ações de Reação e podem ser utilizados de forma **ilimitada**.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p067_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p067_3.webp){position:absolute,left:25.2%,top:44.4%,width:107.0%}
 \page
 {{pageNumber,auto}}
 
@@ -2131,7 +2131,7 @@ Alguns exemplos comuns são quando um personagem tenta curar um aliado com um ki
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p068_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p068_3.webp){position:absolute,left:48.7%,top:42.9%,width:66.3%}
 \page
 {{pageNumber,auto}}
 
@@ -2190,11 +2190,11 @@ Cada cilindro possui **20** pontos de gás, totalizando **40** com os dois somad
 Durante a utilização do DMT, o personagem deverá, em diversos momentos, trocar as lâminas, repor as munições ou substituir os cilindros de gás. Qualquer um desses três processos consome metade do deslocamento do personagem e, caso sejam realizados a até **5** metros de um inimigo, o personagem sofrerá um ataque de oportunidade.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p070_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p070_2.webp){position:absolute,left:44.3%,top:19.5%,width:61.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p070_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p070_3.webp){position:absolute,left:64.0%,top:74.6%,width:48.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p070_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p070_4.webp){position:absolute,left:0.7%,top:-6.4%,width:81.3%}
 \page
 {{pageNumber,auto}}
 
@@ -2222,11 +2222,11 @@ A principal função do DMT é aprimorar a movimentação do usuário. Assim, en
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p071_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p071_2.webp){position:absolute,left:92.1%,top:3.1%,width:47.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p071_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p071_3.webp){position:absolute,left:60.8%,top:61.9%,width:39.7%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p071_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p071_4.webp){position:absolute,left:83.2%,top:35.8%,width:41.9%}
 \page
 {{pageNumber,auto}}
 
@@ -2255,7 +2255,7 @@ A seguir, está a lista de equipamentos disponíveis no sistema. No entanto, lem
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p072_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p072_2.webp){position:absolute,left:3.0%,top:42.8%,width:93.4%}
 \page
 {{pageNumber,auto}}
 
@@ -2303,7 +2303,7 @@ A Rede de Captura é um equipamento portátil, semelhante a um pequeno canhão c
 Geralmente posicionados acima das muralhas, os grandes canhões são capazes de ferir Titãs. Eles disparam explosivos que causam **6d8 + valor na perícia de Mecânica ou Pontaria** do operador de dano, mediante um Teste de Acerto que utiliza a Perícia de Mecânica ou Pontaria do operador como bônus no teste. No entanto, esse canhão é fixo e utiliza de munições e pólvora para funcionar.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p074_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p074_2.webp){position:absolute,left:58.4%,top:85.2%,width:42.7%}
 \page
 {{pageNumber,auto}}
 
@@ -2321,7 +2321,7 @@ A Lança Trovão é uma arma explosiva desenvolvida por Hange Zoe, projetada esp
 Muito utilizada pelo Oriente Médio durante a guerra contra Marley, a Artilharia Anti-Titã é uma forma direta de combater forças titânicas, seja um Titã Puro comum ou a própria couraça do Titã Blindado. Cada disparo da artilharia causa **8d10 + 2x o valor em Mecânica** de quem estiver controlando-a, sendo utilizada a perícia Mecânica ou Pontaria como base para o Teste de Acerto. Além desse dano absurdo, que fere qualquer tipo de Titã e pode acabar matando qualquer humano, qualquer ataque bem-sucedido destrói completamente as placas do **Titã Blindado** ou partes da armadura do **Titã Martelo de Guerra**, ignorando os PDVs adicionais das placas ou partes da armadura, ferindo-os diretamente, assim como a Lança Trovão.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p075_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p075_2.webp){position:absolute,left:22.2%,top:72.6%,width:56.0%}
 \page
 {{pageNumber,auto}}
 
@@ -2351,9 +2351,9 @@ Um personagem com **6** espaços totais no inventário está carregando:
 Durante a missão, ele decide levar também um Explosivo Luminoso (**2** espaços). Ao fazer isso, entra em sobrecarga, excedendo em **2** espaços. Com isso, sofre **-2** no Deslocamento até se livrar de algum item ou conseguir espaço extra com uma mochila, por exemplo.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p076_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p076_4.webp){position:absolute,left:57.3%,top:62.8%,width:43.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p076_5.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p076_5.webp){position:absolute,left:1.7%,top:-5.9%,width:76.4%}
 \page
 {{pageNumber,auto}}
 
@@ -2371,9 +2371,9 @@ O Cavalo Treinado é uma montaria especial encontrada em divisões militares, co
 Durante o combate, as montarias agem em conjunto com o cavaleiro, possuindo apenas **uma Ação de Movimento**, que pode ser usada para fugir de perigos e para auxiliar o personagem a se movimentar no geral.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p077_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p077_2.webp){position:absolute,left:66.0%,top:46.5%,width:33.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p077_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p077_4.webp){position:absolute,left:0.6%,top:-4.8%,width:61.9%}
 \page
 {{pageNumber,auto}}
 
@@ -2394,7 +2394,7 @@ A condição de adrenalina refere-se ao estado em que o corpo humano se encontra
 Após **duas rodadas em combate** ou **5 minutos fora de combate**, o seu personagem sai da condição de adrenalina e recebe **2 pontos de fadiga**, que duram por duas rodadas em combate ou 5 minutos fora de combate, devido à exaustão que o fim da condição causa.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p078_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p078_2.webp){position:absolute,left:0.1%,top:-1.9%,width:64.7%}
 \page
 {{pageNumber,auto}}
 
@@ -2486,7 +2486,7 @@ Caso o cenário seja uma cidade, com diversas casas e prédios, utilizar o DMT s
 **Bônus:** +1d4 de dano com o DMT.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p082_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p082_2.webp){position:absolute,left:6.0%,top:-8.3%,width:88.4%}
 \page
 {{pageNumber,auto}}
 
@@ -2501,9 +2501,9 @@ A Floresta das Árvores Gigantes é um local situado entre a Muralha Rose e a Mu
 **Bônus:** +1d4 em esquivas, Testes de Acerto, fugas e danos utilizando o DMT, além de +1 em testes de Furtividade e Tática para todos os personagens. O Titã Mandíbula recebe +2 no atributo de Agilidade e +4m em seu deslocamento.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p083_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p083_2.webp){position:absolute,left:26.7%,top:22.9%,width:46.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p083_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p083_3.webp){position:absolute,left:-1.3%,top:58.4%,width:102.1%}
 \page
 {{pageNumber,auto}}
 
@@ -2530,9 +2530,9 @@ Caso esteja chovendo, o terreno molhado dificultará a mobilidade das montarias,
 :
 Caso uma grande tempestade atinja o ambiente, a forte chuva e o terreno molhado dificultarão a movimentação dos personagens, assim, todos os personagens receberão **-1 no atributo de Agilidade** e terão seu deslocamento reduzido em **-2 metros** devido às dificuldades causadas pela tempestade.
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p084_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p084_2.webp){position:absolute,left:-0.5%,top:63.6%,width:101.3%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p084_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p084_3.webp){position:absolute,left:-30.2%,top:-1.9%,width:68.8%}
 \page
 {{pageNumber,auto}}
 
@@ -2560,9 +2560,9 @@ Assim como na obra, os titãs neste sistema também regeneram todos os membros. 
 Devido ao seu tamanho incomum, a força física de um titã ultrapassa completamente os limites humanos. Por isso, bloquear seus ataques se torna praticamente impossível. Assim, ao ser atingido por um titã, a única opção disponível para um humano é realizar um teste de esquiva, já que bloqueios são inviáveis.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p085_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p085_2.webp){position:absolute,left:34.8%,top:59.4%,width:83.2%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p085_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p085_3.webp){position:absolute,left:8.2%,top:-7.5%,width:83.2%}
 \page
 {{pageNumber,auto}}
 
@@ -2583,9 +2583,9 @@ Os Titãs Puros são as ameaças mais comuns no universo de *Attack on Titan*, o
 Ao final de cada turno em combate ou a cada minuto fora de combate, os Titãs Puros regeneram **1d6** pontos de vida. O resultado da rolagem deve ser adicionado a todos os membros do Titã, conforme descrito na regra de Regeneração Titânica, seguindo os mesmos padrões e regras.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p086_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p086_3.webp){position:absolute,left:74.1%,top:46.9%,width:27.3%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p086_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p086_4.webp){position:absolute,left:-0.0%,top:33.3%,width:71.0%}
 \page
 {{pageNumber,auto}}
 
@@ -2611,7 +2611,7 @@ Devido ao seu tamanho descomunal e comportamento irracional, os Titãs Puros nã
 Além disso, quando a nuca de um **Titã Puro** é o alvo do ataque, o Teste de Defesa recebe **+3** de bônus (bloqueio ou esquiva, se permitido), representando a vulnerabilidade crítica e o esforço extra para proteger esse ponto vital.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p087_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p087_4.webp){position:absolute,left:35.6%,top:67.3%,width:64.7%}
 \page
 {{pageNumber,auto}}
 
@@ -2729,9 +2729,9 @@ Titãs Anômalos (ou Anormais) são aqueles que não seguem padrões de comporta
 **Efeitos:** ficha totalmente livre para criação do narrador, podendo incluir esquivas, habilidades especiais e atributos únicos.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p090_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p090_3.webp){position:absolute,left:6.4%,top:52.8%,width:25.1%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p090_4.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p090_4.webp){position:absolute,left:20.4%,top:74.9%,width:59.5%}
 \page
 {{pageNumber,auto}}
 
@@ -2754,9 +2754,9 @@ Enquanto estiver na forma de Titã, o personagem não pode utilizar habilidades 
 Narrativamente, todos os portadores de um Titã Primordial recebem fragmentos de memória dos antigos portadores. Esses lapsos podem conter pistas, visões ou emoções que auxiliam o personagem, servindo como uma ferramenta narrativa para o mestre.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p091_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p091_2.webp){position:absolute,left:37.4%,top:46.1%,width:76.3%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p091_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p091_4.webp){position:absolute,left:5.6%,top:-7.5%,width:89.1%}
 \page
 {{pageNumber,auto}}
 
@@ -2804,7 +2804,7 @@ Para se transformar pela primeira vez no dia, o portador deve gastar o custo pad
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p093_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p093_2.webp){position:absolute,left:16.8%,top:63.1%,width:66.6%}
 \page
 {{pageNumber,auto}}
 
@@ -2820,9 +2820,9 @@ O compartilhamento de memórias do Titã de Ataque difere drasticamente dos outr
 O ataque padrão do Titã de Ataque pode ser realizado como um soco ou uma mordida, dependendo da abordagem do jogador e da situação em combate. Para acertar, o jogador realiza um teste utilizando o atributo de Força ou Agilidade do titã. O dano causado é de **9d6 + o atributo de Força do titã**.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p094_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p094_2.webp){position:absolute,left:48.6%,top:52.7%,width:51.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p094_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p094_3.webp){position:absolute,left:13.1%,top:-6.8%,width:74.0%}
 \page
 {{pageNumber,auto}}
 
@@ -2852,7 +2852,7 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p095_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p095_2.webp){position:absolute,left:8.8%,top:57.3%,width:83.2%}
 \page
 {{pageNumber,auto}}
 
@@ -2868,9 +2868,9 @@ O ataque padrão do Titã Colossal é extremamente lento, e seus movimentos são
 O Titã Colossal pode pisotear seus adversários. Se ele simplesmente quiser passar por cima de um personagem e triturá-lo no processo, ele pode. Nesse caso, utilizando o deslocamento do Titã, ao tentar pisotear um humano ou outro Titã, a vítima deverá realizar um teste de Agilidade com dificuldade **18**. Caso passe no teste, conseguirá escapar do pisoteamento e sobreviver. Porém, se falhar, terá o corpo completamente esmagado, resultando na morte imediata de um humano ou deixando um Titã desacordado e completamente desmembrado.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p096_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p096_2.webp){position:absolute,left:42.9%,top:16.1%,width:88.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p096_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p096_3.webp){position:absolute,left:6.0%,top:-8.3%,width:89.4%}
 \page
 {{pageNumber,auto}}
 
@@ -2906,7 +2906,7 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p097_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p097_2.webp){position:absolute,left:27.5%,top:66.8%,width:45.2%}
 \page
 {{pageNumber,auto}}
 
@@ -2941,9 +2941,9 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p098_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p098_2.webp){position:absolute,left:41.2%,top:38.6%,width:59.4%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p098_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p098_3.webp){position:absolute,left:14.5%,top:-6.8%,width:71.3%}
 \page
 {{pageNumber,auto}}
 
@@ -2976,9 +2976,9 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p099_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p099_2.webp){position:absolute,left:46.0%,top:42.1%,width:76.0%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p099_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p099_3.webp){position:absolute,left:14.0%,top:-6.7%,width:72.3%}
 \page
 {{pageNumber,auto}}
 
@@ -3011,9 +3011,9 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p100_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p100_2.webp){position:absolute,left:47.2%,top:42.3%,width:59.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p100_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p100_3.webp){position:absolute,left:18.2%,top:-6.0%,width:63.8%}
 \page
 {{pageNumber,auto}}
 
@@ -3048,9 +3048,9 @@ Os ataques do Titã Mandíbula são baseados em investidas extremamente ágeis, 
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p101_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p101_2.webp){position:absolute,left:30.8%,top:45.1%,width:87.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p101_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p101_3.webp){position:absolute,left:16.0%,top:-6.3%,width:68.3%}
 \page
 {{pageNumber,auto}}
 
@@ -3083,9 +3083,9 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p102_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p102_2.webp){position:absolute,left:34.0%,top:51.9%,width:68.4%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p102_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p102_3.webp){position:absolute,left:15.2%,top:-6.3%,width:69.9%}
 \page
 {{pageNumber,auto}}
 
@@ -3120,9 +3120,9 @@ Caso não utilize as estruturas criadas com carne endurecida, o Titã Martelo de
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p103_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p103_2.webp){position:absolute,left:36.6%,top:50.8%,width:71.0%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p103_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p103_3.webp){position:absolute,left:8.5%,top:-7.8%,width:83.2%}
 \page
 {{pageNumber,auto}}
 
@@ -3152,7 +3152,7 @@ O Titã cria instantaneamente uma barreira de carne endurecida com **25** PDVs, 
 **Custo:** 6 PDE do portador e uma Ação de Reação do Titã.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p104_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p104_2.webp){position:absolute,left:25.0%,top:73.2%,width:50.3%}
 \page
 {{pageNumber,auto}}
 
@@ -3169,9 +3169,9 @@ A Alteração Biológica permite ao portador modificar aspectos físicos do povo
 O Titã Fundador possui a capacidade de alterar as memórias de qualquer pessoa pertencente ao povo conectado aos Caminhos da Coordenada, ou seja, os Eldianos. Esse poder permite ao portador apagar, modificar ou inserir memórias falsas em escala individual ou coletiva.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p105_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p105_2.webp){position:absolute,left:60.6%,top:45.0%,width:85.0%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p105_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p105_3.webp){position:absolute,left:5.3%,top:-8.8%,width:89.6%}
 \page
 {{pageNumber,auto}}
 
@@ -3207,7 +3207,7 @@ Baseando-se na forma titânica de Frieda Reiss, os ataques do Titã Fundador pod
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p106_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p106_2.webp){position:absolute,left:25.6%,top:40.7%,width:49.1%}
 \page
 {{pageNumber,auto}}
 
@@ -3230,7 +3230,7 @@ A maioria dos Titãs Primordiais não possui endurecimento de forma inata, mas p
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p107_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p107_2.webp){position:absolute,left:32.9%,top:-9.3%,width:115.6%}
 \page
 {{pageNumber,auto}}
 
@@ -3240,11 +3240,11 @@ As regras de combate entre titãs funcionam como mecânicas criadas para tornar 
 Sempre que houver mais de um titã presente em um combate, adiciona-se um sexto membro à contagem de PDVs, além da nuca, dos braços e das pernas. Esse sexto membro é a **cabeça do titã**, criada para aprofundar o aspecto estratégico e tornar o combate entre titãs mais imersivo. A cabeça possui Pontos de Vida base iguais aos PDVs da nuca antes da aplicação da Vitalidade do portador ×2, não recebendo o valor de PDV adicional com base no atributo. A cabeça só pode sofrer dano proveniente de ataques realizados por outros titãs ou por **armamentos de grande impacto**, como canhões, bombas ou estruturas bélicas equivalentes. Quando os PDVs da cabeça são reduzidos a 0, o portador do titã **desmaia imediatamente**, ficando inconsciente e deixando o titã **atordoado e em condição vulnerável**. Nesse estado, qualquer ataque realizado contra qualquer membro do titã é considerado um **acerto garantido e crítico**, e o titã não pode esquivar nem bloquear ataques, configurando uma situação de quase xeque-mate. O portador permanece inconsciente até que pelo menos metade dos PDVs da cabeça seja regenerada; após atingir esse valor mínimo, ele pode optar por sair do titã ou permanecer dentro dele, movendo-se lentamente e utilizando sua ação de movimento com apenas metade do deslocamento disponível. Enquanto a cabeça não estiver completamente regenerada, o cérebro do titã permanece danificado, tornando seus instintos muito mais lentos e comprometidos; seguindo as regras de regeneração dos membros titânicos, a cabeça só é totalmente restaurada, e o titã retorna ao funcionamento normal, quando todos os seus PDVs forem completamente regenerados, momento em que volta a esquivar, bloquear e agir sem penalidades.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p108_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p108_2.webp){position:absolute,left:-3.5%,top:18.9%,width:30.3%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p108_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p108_3.webp){position:absolute,left:25.9%,top:71.2%,width:48.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p108_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p108_4.webp){position:absolute,left:8.5%,top:-8.0%,width:83.2%}
 \page
 {{pageNumber,auto}}
 
@@ -3254,7 +3254,7 @@ Em combates de titã contra titã, atacar diretamente a nuca é uma ação extre
 ### Elementos Narrativos
 Combates entre titãs podem se estender para além do que as regras determinam; tendo isso em vista, o narrador e os jogadores têm total liberdade para alterar narrativamente a forma como o dano é aplicado. Situações como quando Eren utilizou um golpe de jiu-jitsu contra Reiner para ferir sua nuca servem como exemplo desse tipo de abordagem. Momentos assim são plenamente possíveis dentro do sistema, e o narrador pode transformar um simples ataque à nuca de um titã em uma cena semelhante, priorizando impacto, fluidez e dramaticidade, tornando o combate mais imersivo e divertido para todos os envolvidos.
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p109_4.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p109_4.webp){position:absolute,left:-0.8%,top:47.6%,width:101.3%}
 \page
 {{pageNumber,auto}}
 
@@ -3286,9 +3286,9 @@ Eren é obcecado pela liberdade.
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p110_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p110_2.webp){position:absolute,left:-8.7%,top:-4.2%,width:58.9%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p110_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p110_3.webp){position:absolute,left:56.0%,top:4.6%,width:35.5%}
 \page
 {{pageNumber,auto}}
 
@@ -3319,9 +3319,9 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p111_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p111_2.webp){position:absolute,left:-8.3%,top:-4.2%,width:58.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p111_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p111_3.webp){position:absolute,left:55.9%,top:4.6%,width:35.8%}
 \page
 {{pageNumber,auto}}
 
@@ -3347,9 +3347,9 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p112_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p112_2.webp){position:absolute,left:-9.0%,top:-4.2%,width:58.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p112_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p112_3.webp){position:absolute,left:56.0%,top:4.6%,width:35.5%}
 \page
 {{pageNumber,auto}}
 
@@ -3379,9 +3379,9 @@ Trauma de Perda: Mikasa teme perder novamente aqueles que considera sua família
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p113_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p113_2.webp){position:absolute,left:-9.0%,top:-4.2%,width:58.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p113_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p113_3.webp){position:absolute,left:56.0%,top:4.6%,width:35.5%}
 \page
 {{pageNumber,auto}}
 
@@ -3409,9 +3409,9 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p114_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p114_2.webp){position:absolute,left:-9.0%,top:-4.2%,width:58.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p114_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p114_3.webp){position:absolute,left:56.0%,top:4.6%,width:35.5%}
 \page
 {{pageNumber,auto}}
 
@@ -3439,9 +3439,9 @@ Equipamentos curativos recuperam +1d6 PDVs e reparos recebem +2 (Passiva de Clas
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p115_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p115_2.webp){position:absolute,left:-21.5%,top:-4.2%,width:58.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p115_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p115_3.webp){position:absolute,left:56.0%,top:4.6%,width:35.5%}
 \page
 {{pageNumber,auto}}
 
@@ -3469,9 +3469,9 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p116_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p116_2.webp){position:absolute,left:-9.7%,top:-4.2%,width:58.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p116_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p116_3.webp){position:absolute,left:56.0%,top:4.6%,width:35.5%}
 \page
 {{pageNumber,auto}}
 
@@ -3499,9 +3499,9 @@ Habilidades da subclasse Inventor custam 1 PDE a menos (Habilidade de Origem).
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p117_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p117_2.webp){position:absolute,left:-19.4%,top:-4.2%,width:58.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p117_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p117_3.webp){position:absolute,left:56.0%,top:4.6%,width:35.5%}
 \page
 {{pageNumber,auto}}
 
@@ -3531,9 +3531,9 @@ Erwin é obcecado em descobrir mistérios do mundo para provar que seu pai estav
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p118_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p118_2.webp){position:absolute,left:-16.4%,top:-4.2%,width:58.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p118_3.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p118_3.webp){position:absolute,left:56.0%,top:4.6%,width:35.5%}
 \page
 {{pageNumber,auto}}
 
@@ -3579,7 +3579,7 @@ Erwin é obcecado em descobrir mistérios do mundo para provar que seu pai estav
 - **Custo:** 9 PDE e uma Ação Padrão.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p119_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p119_2.webp){position:absolute,left:29.7%,top:77.2%,width:40.8%}
 \page
 {{pageNumber,auto}}
 
@@ -3607,11 +3607,11 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p120_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p120_2.webp){position:absolute,left:-14.4%,top:-4.2%,width:58.5%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p120_3.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p120_3.webp){position:absolute,left:32.7%,top:95.2%,width:72.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p120_4.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p120_4.webp){position:absolute,left:56.0%,top:4.6%,width:35.5%}
 \page
 {{pageNumber,auto}}
 
@@ -3661,7 +3661,7 @@ ___
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p121_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p121_2.webp){position:absolute,left:10.3%,top:-0.0%,width:79.3%}
 \page
 {{pageNumber,auto}}
 
@@ -3680,4 +3680,4 @@ Todas as novidades, atualizações e materiais adicionais serão divulgados em n
 }}
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p122_2.webp){width:100%,display:block,margin-left:auto,margin-right:auto}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p122_2.webp){position:absolute,left:10.3%,top:0.0%,width:79.3%}
