@@ -147,9 +147,7 @@ Outro aspecto importante a se destacar sobre a obra é a sua classificação ind
 
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_2.webp){position:absolute,left:32.8%,top:65.0%,width:71.3%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_3.webp){position:absolute,left:2.6%,top:-8.7%,width:94.8%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p006_5.webp){position:absolute,left:2.6%,top:32.2%,width:94.8%}
 \page
 {{pageNumber,auto}}
 
@@ -166,9 +164,6 @@ As três grandes muralhas citadas anteriormente têm o papel de proteger a human
 
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p007_2.webp){position:absolute,left:57.2%,top:2.3%,width:62.6%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p007_3.webp){position:absolute,left:2.6%,top:-6.9%,width:74.9%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p007_4.webp){position:absolute,left:21.8%,top:67.4%,width:56.8%}
 \page
 {{pageNumber,auto}}
 
@@ -185,11 +180,7 @@ Diferentemente das outras divisões, a Polícia Militar apresenta um lado corrom
 <!-- imagem: brasão da Polícia Militar -->
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_2.webp){position:absolute,left:2.6%,top:-5.3%,width:72.1%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_3.webp){position:absolute,left:2.6%,top:18.4%,width:68.7%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_4.webp){position:absolute,left:57.7%,top:36.6%,width:42.3%}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p008_4.webp){position:absolute,left:57.2%,top:2.3%,width:62.6%}
 \page
 {{pageNumber,auto}}
 
@@ -205,14 +196,9 @@ Essa com certeza é a divisão mais famosa do mundo de Attack on Titan. A Tropa 
 
 <!-- imagem: brasão da Tropa de Exploração -->
 
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_2.webp){position:absolute,left:2.6%,top:-5.1%,width:68.7%}
-
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_3.webp){position:absolute,left:55.4%,top:12.1%,width:46.7%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_4.webp){position:absolute,left:0.8%,top:43.0%,width:69.1%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_5.webp){position:absolute,left:58.3%,top:61.1%,width:40.7%}
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p009_5.webp){position:absolute,left:8.3%,top:55.1%,width:40.7%}
 \page
 {{pageNumber,auto}}
 
@@ -232,17 +218,6 @@ Na maioria das vezes, as rolagens deste sistema são feitas com o dado de 20 lad
 **Lembrete:** Caso um cálculo resultar em um número decimal e não houver uma instrução específica para arredondamento, arredonde o resultado para cima, pois o sistema não utiliza números decimais.
 }}
 
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_3.webp){position:absolute,left:0.1%,top:55.2%,width:71.1%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_4.webp){position:absolute,left:54.3%,top:60.6%,width:46.1%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_5.webp){position:absolute,left:0.1%,top:-9.3%,width:99.7%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_6.webp){position:absolute,left:2.4%,top:29.2%,width:95.1%}
-\page
-{{pageNumber,auto}}
-
 ### Críticos e Falhas Críticas
 
 Um resultado crítico significa que o valor do seu dado foi extremo, tanto para o bem quanto para o mal. Nessas situações, a ação que solicitou aquele teste pode ter resultados extremamente satisfatórios ou um completo desastre, com total liberdade para o jogador ou o mestre narrarem as consequências do resultado. Embora, na maioria das vezes, o crítico positivo dependa de uma rolagem de **20**, sem a aplicação de bônus externos, e o crítico negativo dependa de uma rolagem de **1**, também sem bônus externos, em algumas situações, a margem de crítico pode ser reduzida, facilitando o alcance do crítico positivo.
@@ -250,25 +225,20 @@ Um resultado crítico significa que o valor do seu dado foi extremo, tanto para 
 ### Vantagens e Desvantagens
 
 Durante a jogatina, você pode se deparar com vantagens e desvantagens. Elas funcionam como bônus em suas rolagens, podendo ajudar ou prejudicar o resultado. Quando você recebe uma vantagem, serão feitas duas rolagens e o valor definitivo será o maior. Já na desvantagem, o contrário acontece: você deverá escolher o menor valor entre as duas rolagens. Vantagens e desvantagens podem ser acumulativas, dependendo do contexto em que estão inseridas. Assim, em algumas situações, você poderá realizar três rolagens e escolher o maior resultado, ou vice-versa.
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p010_4.webp){position:absolute,left:54.3%,top:60.6%,width:46.1%}
+
+\page
+{{pageNumber,auto}}
+
 
 # Criação de Personagem
 
 O primeiro passo para jogar um RPG é criar o seu personagem. Para isso, você precisará mesclar sua criatividade e detalhes narrativos com base na aventura em que ele será inserido para criar a sua história, além de estar atento às estatísticas de jogo que envolvem a criação da ficha do personagem, as quais serão explicadas nesta etapa do sistema.
 
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_2.webp){position:absolute,left:0.7%,top:-4.2%,width:74.4%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_3.webp){position:absolute,left:0.7%,top:26.1%,width:72.1%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_5.webp){position:absolute,left:65.8%,top:74.8%,width:35.6%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_6.webp){position:absolute,left:4.6%,top:56.7%,width:90.7%}
-\page
-{{pageNumber,auto}}
-
 ## Atributos
 
 Os atributos desempenham uma função crucial na ficha do seu personagem, pois são eles que determinam aspectos como estatura, agilidade, vigor e inteligência sistematicamente. Além disso, fornecem bônus em testes específicos que o mestre poderá solicitar durante a aventura.
+
 
 ### Agilidade
 
@@ -295,18 +265,6 @@ O atributo de Intelecto define a inteligência do personagem, proporcionando mai
 **Bônus de ficha fornecidos por cada ponto em Intelecto:** +1 Ponto de perícia / +1 Em Sanidade (SAN)
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_2.webp){position:absolute,left:-16.0%,top:19.0%,width:55.0%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_3.webp){position:absolute,left:-18.2%,top:35.5%,width:55.8%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_4.webp){position:absolute,left:-21.6%,top:51.9%,width:59.2%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_5.webp){position:absolute,left:-17.9%,top:73.5%,width:55.0%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p012_6.webp){position:absolute,left:-0.4%,top:-5.5%,width:72.1%}
-\page
-{{pageNumber,auto}}
-
 ### Vitalidade
 
 O atributo de Vitalidade define a resistência física do personagem, concedendo mais 'Pontos de Vida' e fornecendo bônus em testes para manter-se de pé em momentos críticos, como quando o personagem sofre danos severos, por exemplo.
@@ -318,6 +276,12 @@ O atributo de Vitalidade define a resistência física do personagem, concedendo
 Em determinado momento durante a sua aventura, foi necessário realizar um teste de algum atributo. Nessa situação, você deverá fazer uma rolagem com um dado de 20 lados e somar o valor do atributo solicitado ao resultado final do dado.
 :
 **Exemplo:** Um membro da Tropa de Exploração, que possui 3 pontos no atributo de Agilidade, está sem gás em seu DMT e precisa correr de um titã. Para isso, foi solicitado um teste de Agilidade, no qual o resultado do dado foi **4**, logo, o resultado final do teste foi **7**, e ele provavelmente foi pego pelo titã.
+
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p011_5.webp){position:absolute,left:65.8%,top:74.8%,width:35.6%}
+
+\page
+{{pageNumber,auto}}
+
 
 ##### Guia de dificuldades para Testes de Atributo
 | Dificuldade | Resultado |
@@ -342,14 +306,6 @@ As perícias representam áreas nas quais seu personagem pode se aperfeiçoar. C
 :
 Abaixo estão listadas as perícias do sistema, organizadas em ordem alfabética.
 
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p013_2.webp){position:absolute,left:-18.2%,top:-2.7%,width:55.1%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p013_3.webp){position:absolute,left:-0.1%,top:9.8%,width:70.3%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p013_4.webp){position:absolute,left:-0.1%,top:55.4%,width:68.8%}
-\page
-{{pageNumber,auto}}
 
 ### Carisma - Intelecto
 
@@ -413,10 +369,6 @@ A perícia de Tática é uma ferramenta que permite ao narrador auxiliar seus jo
 A perícia de Vontade abrange o estado mental do personagem e é geralmente utilizada em situações em que ele precisa manter a estabilidade mental ou motivar-se para dar o seu melhor em uma luta.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p015_8.webp){position:absolute,left:6.2%,top:60.6%,width:94.3%}
-\page
-{{pageNumber,auto}}
-
 ## Testes de Perícias
 
 Um teste com uma perícia pode ser semelhante ao teste de Atributo citado anteriormente, mas há uma pequena diferença que pode ajudar bastante. Em um teste de Perícia, você deve rolar um dado de 20 lados e somar o valor da perícia solicitada ao resultado final, porém, também adiciona metade do valor do Atributo relacionado à Perícia solicitada (*arredondando para baixo, se necessário*) ao resultado final.
@@ -442,13 +394,8 @@ Um teste com uma perícia pode ser semelhante ao teste de Atributo citado anteri
 ## Pontos de Vida
 
 Os Pontos de Vida (ou '**PDV**') representam o estado físico do seu personagem, relacionado a machucados e feridas. Quando o personagem está em boas condições, seus PDVs estarão no valor máximo. No entanto, à medida que ele sofre danos de ataques ou efeitos semelhantes, seu corpo apresentará marcas dessas agressões e seus PDVs começarão a diminuir até chegarem a 0. Quando isso acontecer, o personagem será afetado pela condição 'Morrendo', descrita na seção de Condições do livro.
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p015_8.webp){position:absolute,left:6.2%,top:60.6%,width:94.3%}
 
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p016_3.webp){position:absolute,left:59.9%,top:69.9%,width:42.8%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p016_4.webp){position:absolute,left:0.4%,top:-5.1%,width:69.9%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p016_5.webp){position:absolute,left:0.4%,top:52.2%,width:71.7%}
 \page
 {{pageNumber,auto}}
 
@@ -467,15 +414,16 @@ Os danos de sanidade são definidos pela interpretação do narrador, que deve a
 A recuperação da sanidade também se baseia na interpretação do mestre, ele pode decidir quando um personagem recupera pontos de sanidade, geralmente após momentos positivos, alívios emocionais ou reflexões significativas que promovam alguma estabilidade mental. Quando isso acontecer, rola-se **1d4** para determinar quantos pontos de sanidade são restaurados.
 
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p017_2.webp){position:absolute,left:30.3%,top:35.3%,width:77.1%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p017_5.webp){position:absolute,left:0.4%,top:-5.1%,width:71.7%}
-\page
-{{pageNumber,auto}}
+\column
 
 ## Pontos de Estâmina
 
 Os Pontos de Estâmina (ou '**PDE**') representam a energia física do seu personagem. Quando estiver descansado e com as energias renovadas, os seus PDEs estarão no valor máximo. No entanto, à medida que ele for exigido a realizar mais esforço físico, como ao utilizar habilidades que consomem PDE, esse valor diminuirá gradativamente até chegar a 0. Quando isso acontecer, o personagem receberá 4 pontos de fadiga, com os efeitos descritos na seção de Condições do livro.
+![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p017_2.webp){position:absolute,left:30.3%,top:35.3%,width:77.1%}
+
+\page
+{{pageNumber,auto}}
+
 
 # Origens
 
@@ -497,9 +445,6 @@ Sendo herdeiro do sangue real, a vida do seu personagem sempre foi escondida da 
 
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_3.webp){position:absolute,left:57.5%,top:66.9%,width:47.4%}
 
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_4.webp){position:absolute,left:0.4%,top:-5.6%,width:77.5%}
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_5.webp){position:absolute,left:6.3%,top:23.0%,width:87.4%}
 \page
 {{pageNumber,auto}}
 
