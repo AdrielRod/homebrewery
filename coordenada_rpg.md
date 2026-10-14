@@ -429,18 +429,31 @@ Os Pontos de Estâmina (ou '**PDE**') representam a energia física do seu perso
 
 As Origens representam o conceito base de cada personagem, influenciando diretamente seus status iniciais (PDV, SAN e PDE). Também concedem uma Passiva de Origem desde a criação do personagem (exceto para Ackermans) e uma Habilidade de Origem, desbloqueada ao atingir o **nível 8** de personagem (exceto para Esquecidos).
 
-### Sangue Real (Fritz/Reiss)
+##### Resumo das Origens
+| Origem | Família | PDV | SAN | PDE |
+|:--|:--|:-:|:-:|:-:|
+| Sangue Real | Fritz/Reiss | 8 | 8 | 4 |
+| Fazendeiro | Braus | 10 | 6 | 6 |
+| Cientista | Zoe | 8 | 8 | 6 |
+| Aldeão | Springer | 10 | 6 | 4 |
+| Cidadão | Foster/Kirstein | 8 | 8 | 4 |
+| Esquecido | — | 8 | 6 | 6 |
+| Guerreiro | Braun/Leonhart/Galliard | 12 | 6 | 6 |
+| Historiador | Arlert/Smith | 8 | 8 | 6 |
+| Revolucionário | Yeager/Kruger | 10 | 8 | 6 |
+| Ackerman | — | 10 | 6 | 8 |
+
+## Sangue Real
+*Família Fritz / Reiss*
 
 Sendo herdeiro do sangue real, a vida do seu personagem sempre foi escondida da sociedade. Ele viveu em castelos submersos feitos de cristais, ao lado de outros herdeiros do sangue real, ou se ocultando entre as pessoas comuns. Tendo acesso a diversos livros e sendo instruído por pessoas inteligentes, ele desenvolveu um poder de raciocínio elevado e uma resistência mental considerável, além dos atributos narrativos exclusivos da família Fritz.
-:
-**Passiva da Origem:** Adicione **+1** ao seu atributo de **Intelecto**.
-:
-**Habilidade de Origem - Vontade do Rei:** Todas as recuperações de Sanidade feitas pelo personagem ou por seus aliados (se o personagem estiver por perto) passam a recuperar **1d8** ao invés de 1d4 como normalmente.
 
-##### Status Iniciais — Sangue Real
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 8 | 8 | 4 |
+### Traços de Origem
+***Status Iniciais.*** PDV **8**, SAN **8**, PDE **4**.
+
+***Passiva da Origem.*** Adicione **+1** ao seu atributo de **Intelecto**.
+
+***Vontade do Rei.*** *(Habilidade de Origem, nível 8)* Todas as recuperações de Sanidade feitas pelo personagem ou por seus aliados (se o personagem estiver por perto) passam a recuperar **1d8** ao invés de 1d4 como normalmente.
 
 
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p018_3.webp){position:absolute,left:57.5%,top:66.9%,width:47.4%}
@@ -448,141 +461,128 @@ Sendo herdeiro do sangue real, a vida do seu personagem sempre foi escondida da 
 \page
 {{pageNumber,auto}}
 
-### Fazendeiro (Braus)
+## Fazendeiro
+*Família Braus*
 
 Assim como a família Braus, seu personagem cresceu em uma área rural, cuidando de animais, caçando, pescando e plantando para sobreviver. Dessa forma, ele adquiriu um corpo resistente e conhecimentos valiosos para a sobrevivência.
-:
-**Passiva da Origem:** Sempre que realizar um teste de **Natureza**, adicione **vantagem**.
-:
-**Habilidade de Origem - Instinto Selvagem:** Estando em áreas rurais, a margem de crítico dos testes do personagem é reduzida em **-1**.
 
-##### Status Iniciais — Fazendeiro
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 10 | 6 | 6 |
+### Traços de Origem
+***Status Iniciais.*** PDV **10**, SAN **6**, PDE **6**.
 
-### Cientista (Zoe)
+***Passiva da Origem.*** Sempre que realizar um teste de **Natureza**, adicione **vantagem**.
+
+***Instinto Selvagem.*** *(Habilidade de Origem, nível 8)* Estando em áreas rurais, a margem de crítico dos testes do personagem é reduzida em **-1**.
+
+## Cientista
+*Família Zoe*
 
 A ciência é uma área bem abrangente, mas o seu personagem conseguiu se aperfeiçoar em boa parte delas, como medicina ou a mecânica por exemplo. E assim como Hange Zoe, ele tem um conhecimento incrível, junto a uma mente brilhante.
-:
-**Passiva da Origem:** Escolha entre essas duas opções:
+
+### Traços de Origem
+***Status Iniciais.*** PDV **8**, SAN **8**, PDE **6**.
+
+***Passiva da Origem.*** Escolha entre essas duas opções:
 1. Sempre que realizar um teste de **Mecânica**, adicione **vantagem**.
 2. Sempre que realizar um teste de **Medicina**, adicione **vantagem**.
 
-**Habilidade de Origem - Gênio:** As habilidades exclusivas da subclasse do personagem têm seus custos de PDE reduzidos em **-1**.
+***Gênio.*** *(Habilidade de Origem, nível 8)* As habilidades exclusivas da subclasse do personagem têm seus custos de PDE reduzidos em **-1**.
 
-##### Status Iniciais — Cientista
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 8 | 8 | 6 |
-
-### Aldeão (Springer)
+## Aldeão
+*Família Springer*
 
 Assim como os moradores da aldeia Ragako, uma aldeia distante dos grandes distritos, seu personagem viveu uma vida tranquila e pôde se aprimorar em qualquer área de sua preferência, tornando-se assim bem versátil.
-:
-**Passiva da Origem:** Escolha um atributo para receber **+1**.
-:
-**Habilidade de Origem - Faz Tudo:** O personagem escolhe **três** perícias para receber **+1**. Uma vez por dia, é possível realocar esses bônus para outras perícias.
 
-##### Status Iniciais — Aldeão
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 10 | 6 | 4 |
+### Traços de Origem
+***Status Iniciais.*** PDV **10**, SAN **6**, PDE **4**.
+
+***Passiva da Origem.*** Escolha um atributo para receber **+1**.
+
+***Faz Tudo.*** *(Habilidade de Origem, nível 8)* O personagem escolhe **três** perícias para receber **+1**. Uma vez por dia, é possível realocar esses bônus para outras perícias.
 
 
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p019_2.webp){position:absolute,left:64.5%,top:68.0%,width:47.4%}
 \page
 {{pageNumber,auto}}
 
-### Cidadão (Foster/Kirstein)
+## Cidadão
+*Família Foster / Kirstein*
 
 Seu personagem nasceu em um dos principais distritos das muralhas. Em geral, essa é a origem mais versátil, então sinta-se completamente à vontade para desenvolver o conceito de personagem que preferir.
-:
-**Passiva da Origem:** Escolha **4** perícias para receber **+1**.
-:
-**Habilidade de Origem - Versatilidade:** O personagem pode escolher uma habilidade geral adicional para adicionar permanentemente à sua ficha.
 
-##### Status Iniciais — Cidadão
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 8 | 8 | 4 |
+### Traços de Origem
+***Status Iniciais.*** PDV **8**, SAN **8**, PDE **4**.
 
-### Esquecido
+***Passiva da Origem.*** Escolha **4** perícias para receber **+1**.
 
+***Versatilidade.*** *(Habilidade de Origem, nível 8)* O personagem pode escolher uma habilidade geral adicional para adicionar permanentemente à sua ficha.
+
+## Esquecido
 A vida do seu personagem é um grande mistério, ele não sabe de onde veio, nem por que veio. Qualquer fragmento de sua história foi completamente apagado de sua mente, e agora ele se encontra em uma intensa busca para descobrir quem é.
-:
-**Passiva da Origem:** Sempre que receber danos em sua Sanidade, reduza-os pela metade, arredondando para cima, se necessário.
-:
-**Habilidade de Origem - Lembrança:** Após compreender seu passado, o personagem recebe **3** pontos de perícia para distribuir e sua Sanidade máxima aumenta em **+6**.
 
-##### Status Iniciais — Esquecido
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 8 | 6 | 6 |
+### Traços de Origem
+***Status Iniciais.*** PDV **8**, SAN **6**, PDE **6**.
 
-### Guerreiro (Braun/Leonhart/Galliard)
+***Passiva da Origem.*** Sempre que receber danos em sua Sanidade, reduza-os pela metade, arredondando para cima, se necessário.
+
+***Lembrança.*** *(Habilidade de Origem, ao compreender seu passado)* Após compreender seu passado, o personagem recebe **3** pontos de perícia para distribuir e sua Sanidade máxima aumenta em **+6**.
+
+## Guerreiro
+*Família Braun / Leonhart / Galliard*
 
 A vida do seu personagem se baseou em seguir uma carreira militar, sendo treinado desde criança pela própria família ou por qualquer pessoa de fora. Com isso, seu corpo se tornou muito resistente e suas habilidades de combate melhoraram consideravelmente.
-:
-**Passiva da Origem:** Escolha entre essas duas opções:
+
+### Traços de Origem
+***Status Iniciais.*** PDV **12**, SAN **6**, PDE **6**.
+
+***Passiva da Origem.*** Escolha entre essas duas opções:
 1. **+2** na perícia de **Pontaria**
 2. **+2** na perícia de **Luta**
 
-**Habilidade de Origem - Corpo Resistente:** Todo dano recebido diretamente no corpo do personagem é reduzido em um valor igual à sua perícia de **Fortitude**.
-
-##### Status Iniciais — Guerreiro
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 12 | 6 | 6 |
+***Corpo Resistente.*** *(Habilidade de Origem, nível 8)* Todo dano recebido diretamente no corpo do personagem é reduzido em um valor igual à sua perícia de **Fortitude**.
 
 
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p020_2.webp){position:absolute,left:57.9%,top:67.1%,width:46.9%}
 \page
 {{pageNumber,auto}}
 
-### Historiador (Arlert/Smith)
+## Historiador
+*Família Arlert / Smith*
 
 Assim como a família Arlert, seu personagem sempre se interessou em entender os mistérios deste mundo, seja para descobrir o que há atrás dos muros ou para entender o motivo das pessoas estarem atrás deles. Com isso, seu personagem se tornou um exímio estudioso e adquiriu conhecimentos que pouquíssimas pessoas têm ciência.
-:
-**Passiva da Origem:** Sempre que for realizar um teste de **História**, adicione vantagem a rolagem.
-:
-**Habilidade de Origem - Ver o Mundo Lá Fora:** Caso o personagem receba a condição de Morrendo, ele poderá, uma vez por dia, realizar um teste adicional de morte utilizando a perícia de História.
 
-##### Status Iniciais — Historiador
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 8 | 8 | 6 |
+### Traços de Origem
+***Status Iniciais.*** PDV **8**, SAN **8**, PDE **6**.
 
-### Revolucionário (Yeager/Kruger)
+***Passiva da Origem.*** Sempre que for realizar um teste de **História**, adicione vantagem a rolagem.
+
+***Ver o Mundo Lá Fora.*** *(Habilidade de Origem, nível 8)* Caso o personagem receba a condição de Morrendo, ele poderá, uma vez por dia, realizar um teste adicional de morte utilizando a perícia de História.
+
+## Revolucionário
+*Família Yeager / Kruger*
 
 Seu personagem nunca aceitou as regras convencionais e, assim como Eren Yeager, viver uma vida pacata não traz satisfação para o seu coração. Com isso, ele desenvolveu uma determinação absurda para conquistar seus objetivos, sejam quais forem.
-:
-**Passiva da Origem:** Sempre que realizar um teste de Vontade, adicione vantagem à rolagem.
-:
-**Habilidade de Origem - Lute, Lute, Lute…:** Uma vez ao dia, o personagem pode entrar no estado de adrenalina ignorando o pré-requisito de estar com menos da metade dos PDVs. No entanto, o teste de Fortitude é substituído por um teste de Vontade, e todas as demais regras seguem conforme descritas na condição original.
 
-##### Status Iniciais — Revolucionário
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 10 | 8 | 6 |
+### Traços de Origem
+***Status Iniciais.*** PDV **10**, SAN **8**, PDE **6**.
+
+***Passiva da Origem.*** Sempre que realizar um teste de Vontade, adicione vantagem à rolagem.
+
+***Lute, Lute, Lute….*** *(Habilidade de Origem, nível 8)* Uma vez ao dia, o personagem pode entrar no estado de adrenalina ignorando o pré-requisito de estar com menos da metade dos PDVs. No entanto, o teste de Fortitude é substituído por um teste de Vontade, e todas as demais regras seguem conforme descritas na condição original.
 
 
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p021_2.webp){position:absolute,left:40.8%,top:52.8%,width:69.4%}
 \page
 {{pageNumber,auto}}
 
-### Ackerman
-
+## Ackerman
 Personagens da origem Ackerman possuem habilidades físicas em níveis sobrenaturais, com capacidades de combate que superam os limites humanos e uma curva de aprendizado acelerada. Contudo, carregam uma condição ancestral: ao criarem laços profundos com alguém, tendem a proteger essa pessoa a qualquer custo, mesmo colocando suas próprias vidas em risco. Essa ligação pode ser definida pelo jogador ou atribuída pelo narrador durante a campanha.
-:
-**Passiva de Origem:** Ao presenciar uma cena extremamente impactante para o seu psicológico, uma vez na vida, o personagem perde **2** de Sanidade permanentemente, mas desperta um instinto latente, recebendo **+1** em seus atributos de **Força e Agilidade**, além de **+1** em seus Testes de Acerto permanentemente.
-:
-**Habilidade de Origem - Potencial Sobrehumano:** O personagem escolhe uma habilidade para receber **+1** nível acima do atual, a partir deste ponto, essa habilidade sempre estará **1** nível à frente das demais. Caso atinja o **nível 4** naturalmente, seu custo em PDE será reduzido em **-1**.
 
-##### Status Iniciais — Ackerman
-| PDV | SAN | PDE |
-|:---:|:---:|:---:|
-| 10 | 6 | 8 |
+### Traços de Origem
+***Status Iniciais.*** PDV **10**, SAN **6**, PDE **8**.
+
+***Passiva da Origem.*** Ao presenciar uma cena extremamente impactante para o seu psicológico, uma vez na vida, o personagem perde **2** de Sanidade permanentemente, mas desperta um instinto latente, recebendo **+1** em seus atributos de **Força e Agilidade**, além de **+1** em seus Testes de Acerto permanentemente.
+
+***Potencial Sobrehumano.*** *(Habilidade de Origem, nível 8)* O personagem escolhe uma habilidade para receber **+1** nível acima do atual, a partir deste ponto, essa habilidade sempre estará **1** nível à frente das demais. Caso atinja o **nível 4** naturalmente, seu custo em PDE será reduzido em **-1**.
 
 # Classes
 
