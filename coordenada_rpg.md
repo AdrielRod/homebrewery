@@ -15,13 +15,7 @@ ___
 <!-- imagem: arte de capa do Coordenada RPG -->
 
 ![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p001_2.webp){position:absolute,bottom:0,left:0,width:100%,height:100%,object-fit:cover}
-\page
-{{pageNumber,auto}}
 
-<!-- imagem: página de arte (página 2 do PDF original, sem texto) -->
-
-
-![](https://raw.githubusercontent.com/AdrielRod/homebrewery/main/coordenada/img/p002_2.webp){width:70%,display:block,margin-left:auto,margin-right:auto}
 \page
 {{pageNumber,auto}}
 
@@ -58,12 +52,6 @@ ___
 - ### [{{ Habilidades }}{{ 36 }}](#p36)
 - ###### [{{ Habilidades Gerais }}{{ 36 }}](#p36)
 - ###### [{{ Habilidades Exclusivas }}{{ 46 }}](#p46)
-}}
-
-\page
-{{pageNumber,auto}}
-
-{{toc,
 - ### [{{ Combate }}{{ 66 }}](#p66)
 - ###### [{{ Críticos em Combate }}{{ 69 }}](#p69)
 - ###### [{{ DMT }}{{ 70 }}](#p70)
@@ -81,6 +69,9 @@ ___
 - ###### [{{ Titã de Ataque }}{{ 94 }}](#p94)
 - ###### [{{ Titã Colossal }}{{ 96 }}](#p96)
 - ###### [{{ Titã Bestial }}{{ 98 }}](#p98)
+}}
+
+{{toc,
 - ###### [{{ Titã Fêmea }}{{ 99 }}](#p99)
 - ###### [{{ Titã Blindado }}{{ 100 }}](#p100)
 - ###### [{{ Tita Mandíbula }}{{ 101 }}](#p101)
@@ -94,7 +85,6 @@ ___
 - ### [{{ Ficha Base }}{{ 121 }}](#p121)
 - ### [{{ Encerramento }}{{ 122 }}](#p122)
 }}
-
 \page
 {{pageNumber,auto}}
 
